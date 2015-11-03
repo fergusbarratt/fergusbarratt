@@ -1,0 +1,1195 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fergus",
+				"fergusbarratt"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"proj",
+				"project_ground"
+			],
+			[
+				"grou",
+				"ground_exp"
+			],
+			[
+				"qubit",
+				"qubit_integrate"
+			],
+			[
+				"func",
+				"functype"
+			],
+			[
+				"els",
+				"elseif	elseif"
+			],
+			[
+				"solve",
+				"solve_jc_system"
+			],
+			[
+				"Plot",
+				"PlotVals"
+			],
+			[
+				"omeg",
+				"omega_driving"
+			],
+			[
+				"H1",
+				"H1_coeff"
+			],
+			[
+				"t_",
+				"t_d_coeff"
+			],
+			[
+				"omega_driving",
+				"omega_driving〔argument〕"
+			],
+			[
+				"kcollaps",
+				"kcollapse〔function〕"
+			],
+			[
+				"omega",
+				"omega_cavity"
+			],
+			[
+				"omega_",
+				"omega_qubit"
+			],
+			[
+				"vec",
+				"vec_rho"
+			],
+			[
+				"sz",
+				"sz_2"
+			],
+			[
+				"spin",
+				"spin2"
+			],
+			[
+				"coh",
+				"coherent_dm"
+			],
+			[
+				"p",
+				"pop"
+			],
+			[
+				"CriticalSo",
+				"CriticalSlowingTimes"
+			],
+			[
+				"Criti",
+				"CriticalSlowingtime"
+			],
+			[
+				"Crit",
+				"CriticalSlowingTimes"
+			],
+			[
+				"slo",
+				"slowingtime1"
+			],
+			[
+				"slowin2",
+				"slowingtime2"
+			],
+			[
+				"T",
+				"TDSols1"
+			],
+			[
+				"TD",
+				"TDSols2"
+			],
+			[
+				"slowing",
+				"slowingtime1"
+			],
+			[
+				"c1",
+				"C1dC1"
+			],
+			[
+				"CdC",
+				"C1dC1"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"D",
+				"Dplotvals"
+			],
+			[
+				"number",
+				"numberofvalues"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Local:    master /Applications/MAMP/htdocs\nHead:     3d06b94 Initial Commit of personal website. Hosted on DigitalOcean. Using dnsimple, namecheap, with a Jekyll blog under /blog. previously on github pages.\n\n\nNothing to commit (working directory clean)\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash, Z = create stash including untracked files\n#    backspace = discard stash",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"line_ending": "Unix",
+				"name": "*git-status*: htdocs",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"_bootstrap/css/bootstrap.min.css\">\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"css/customstyle.css\">\n  <script src=\"_bootstrap/js/jquery.min.js\"></script>\n  <script src=\"_bootstrap/js/bootstrap.min.js\"></script>\n  <title>Projects</title>\n</head>\n\n<body>\n  <div class=\"container\">\n    <div class=\"jumbotron\">\n      <h1>Fergus Barratt</h1>\n      <p>The website and blog of Fergus Barratt. A place to learn web stuff and write down thoughts</p>\n    </div>\n    <div class=\"col-md-6 col\">\n      <img src=\"images/HighResCarmichaelPlot.png\">\n    </div>\n  </div>\n  <footer class=\"footer\">\n    <div class=\"container\">\n\n        <div class=\"btn-group btn-group-justified\" role=\"navbar\" aria-label=\"...\">\n\n          <a role=\"button\" class=\"btn btn-outline-inverse btn-def\" href=\"home/projects\">projects</a>\n\n          <a role=\"button\" class=\"btn btn-outline-inverse btn-def\" href=\"blog\">somethinglikeablog</a>\n\n          <a role=\"button\" class=\"btn btn-outline-inverse btn-def\" href=\"home/about\">about</a>\n\n        </div>\n    </div>\n  </footer>\n</body>\n</html>\n",
+			"file": "/Applications/MAMP/htdocs/index.html",
+			"file_size": 1249,
+			"file_write_time": 130909720110000000,
+			"settings":
+			{
+				"buffer_size": 1237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/home/projects/index.html",
+			"settings":
+			{
+				"buffer_size": 2482,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/css/customstyle.css",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/README.md",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/home/about/index.html",
+			"settings":
+			{
+				"buffer_size": 1348,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/home/about/content.md",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<h1><a name=\"user-content-fergus-barratt\" href=\"#fergus-barratt\" aria-hidden=\"true\"><span></span></a>Fergus Barratt</h1>\n<p>My name is Fergus Barratt and I&rsquo;m a Physics Masters student at UCL in London. I&rsquo;m interested in quantum mechanics, quantum optics and mathematical physics.</p>",
+			"file": "/Applications/MAMP/htdocs/home/about/intro.html",
+			"file_size": 295,
+			"file_write_time": 130909696900000000,
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Chrome.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/jekyll.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Chrome.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "stat",
+		"selected_items":
+		[
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"prv ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Page"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"latexto",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prvc",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git sts",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"repl python",
+				"SublimeREPL: Python"
+			],
+			[
+				"python ",
+				"SublimeREPL: Python"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"sublime python",
+				"SublimeREPL: Python"
+			],
+			[
+				"sublimereply",
+				"SublimeREPL: Python"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"package rev",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimereplpytho",
+				"SublimeREPL: Python"
+			],
+			[
+				"installl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git add r",
+				"Git: Add Remote"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"gpus",
+				"Git: Push"
+			],
+			[
+				"git state",
+				"Git: Stash Include Untracked"
+			],
+			[
+				"git: statu",
+				"Git: Status"
+			],
+			[
+				"Git push",
+				"Git: Push"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:Pus",
+				"Git: Push"
+			],
+			[
+				"gitpus",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitremote",
+				"Git: Remote"
+			],
+			[
+				"Gitremot",
+				"Git: Remote"
+			],
+			[
+				"gitpush",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitadd",
+				"Git: Add Remote"
+			],
+			[
+				"gpush",
+				"Git: Push Current Branch"
+			],
+			[
+				"git: stat",
+				"Git: Status"
+			],
+			[
+				"Gsta",
+				"Git: Status"
+			],
+			[
+				"git:init",
+				"Git: Init"
+			],
+			[
+				"Late",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"Package Control:Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs",
+		"/Applications/MAMP/htdocs/_bootstrap/css",
+		"/Applications/MAMP/htdocs/_bootstrap/js",
+		"/Applications/MAMP/htdocs/css",
+		"/Applications/MAMP/htdocs/home",
+		"/Applications/MAMP/htdocs/home/about",
+		"/Applications/MAMP/htdocs/home/projects"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/home/about/content.html",
+		"/Applications/MAMP/htdocs/home/projects/content.md",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Applications/MAMP/htdocs/_sublime/WebsiteProject.sublime-project",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/Material Theme/README.md",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/_jekbuild/_config.yml",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/_jekbuild/_site/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/_jekbuild/_posts/2015-11-02-Hi!.markdown",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/jekyll.sublime-build",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/jekyll/blog/_config.yml",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/jekyll/blog/_posts/2015-11-02-Hi!.markdown",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/jekyll/blog/about.md",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/jekyll/blog/_posts/2015-11-02-welcome-to-jekyll.markdown",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/C#/Comments.tmPreferences",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/blog/about.md",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/_config.yml",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/_site/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/_site/about/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/projects/index.md",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/index.md",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/blog/_layouts/post.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/blog/blog/_config.yml",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/Blog/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/about/index.html",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/Ruby/Ruby.sublime-build",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/littleones/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/intro.md",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/[shell_cmd",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/C#/Build.tmLanguage",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/LittleOne/index.md",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/LittleOne/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/Bloch Sphere/index.md",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/Bloch Sphere/index.html",
+		"/Users/fergusbarratt/Dropbox/WebsiteProject/fergusbarratt.github.io/css/index.css",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Python/BlochAnimationJC.py",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/CarmichaelPaperSummary.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Python/bloch_sphere.mp4",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/TheMasterEquation.tex",
+		"/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/qutip/bloch.py",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/PlotQPSeries.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/rhoss.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/iphnumvals.m",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/README.markdown",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Python/JaynesCummings.py",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Python/test qutip.py",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Python/BlochAnimation.py",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/Main.sublime-menu",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL (OSX).sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/CriticalSlowingComparison.m",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/timedependentsoln.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/Qss.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/Slowing.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/HighResCarmichaelPlot.fig",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/probevolve.m",
+		"/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/matplotlib/animation.py",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/User/Matlab.sublime-build",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/GeneratePlotValues.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/plotseries.m",
+		"/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/qutip/mesolve.py",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/qutip/superoperator.py",
+		"/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/scipy/sparse/compressed.py",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/User/python3.sublime-build",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Matlab/GuidePlot.fig",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/Pylinter/Pylinter.sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/User/Pylinter.sublime-settings",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/fergusbarratt/CoverLetter.tex",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 2/Packages/python3.sublime-build",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Mathematica/NeoclassicalDecay.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Mathematica/NeoclassicalDecay.nb",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Mathematica/Script.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/LiteratureReview.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/TitlePage.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/ProjectOutline.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Mathematica/QuasiProbabilityFunctions.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Mathematica/Quasi Probability Functions.nb",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/JaynesCummingModel.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/QuasiProbabilityDistributions.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/QuasiProbabilityDistributions.aux",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/SlowingFigure.fig",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/plotQseries.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/TimeDependentSoln.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/CriticalSlowingCurve.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/CriticalSlowingComparison.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/Figure from Carmichael Paper.fig",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/GeneratePlotValues.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/rhoss.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/probevolve.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/ProjectOutline.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/QuasiProbabilityDistributions.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/Literature Review.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/Project Outline.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/iphnumvals.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/GuidePlotData.mat",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/dispstat.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/TheMasterEquation.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Project Outline/Project Outline.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/CarmichaelPaperSummary.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/JaynesCummingModel.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/Summary.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/plotseries.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/Qss.m",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Mathematica/Quasi Probability Functions.nb",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/QuasiProbabilityDistributions.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Summary.tex",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/TheMasterEquation.tex",
+		"/Applications/MATLAB_R2015a.app/bin/matlab",
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/CarmichaelPaperSummary.tex"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=",
+			"c",
+			"button",
+			"type=\"button\" ",
+			"button",
+			"md",
+			"p",
+			"js",
+			"equation",
+			"));",
+			"rhoss",
+			"sx",
+			"    //",
+			"Yrange",
+			"ge",
+			", Xrange, Yrange",
+			"qfunc(rhoss(E, det, N, g, kappa)",
+			"sigmam",
+			"sx",
+			"sz",
+			"3",
+			"bar",
+			"scroll",
+			"live",
+			"]",
+			"[H]",
+			"equation",
+			"ref",
+			"equation",
+			"quation",
+			"\\qexp{\\sigma_z}",
+			"\\qexp{\\atann}",
+			"\\qexp{\\ann}",
+			"qexp{\\ann}",
+			"concrit",
+			"det",
+			"d",
+			"t",
+			"N, g, kappa",
+			"n",
+			"N",
+			"detuning",
+			"drive",
+			"kappa, g, det, N",
+			"e",
+			"E",
+			"e",
+			"E",
+			"e",
+			"E",
+			"e",
+			"E",
+			"e",
+			"E",
+			"e",
+			"E",
+			"e",
+			"E",
+			"Eplotiphnumvals",
+			"vals",
+			"X",
+			"Xrange, Yrange)",
+			"Qss",
+			"jpg",
+			"via",
+			"h",
+			"path",
+			"("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"default_dir": "/Applications/MAMP/htdocs",
+							"draw_white_space": "none",
+							"git_repo": "/Applications/MAMP/htdocs",
+							"git_status": true,
+							"git_view": "status",
+							"syntax": "Packages/SublimeGit/syntax/SublimeGit Status.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Applications/MAMP/htdocs/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/MAMP/htdocs/home/projects/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"parser": "markdown",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"target": "save"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Applications/MAMP/htdocs/css/customstyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Applications/MAMP/htdocs/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Applications/MAMP/htdocs/home/about/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Applications/MAMP/htdocs/home/about/content.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"parser": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"target": "save"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Applications/MAMP/htdocs/home/about/intro.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-init":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"output.git-remote":
+	{
+		"height": 98.0
+	},
+	"output.markdown":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "WebsiteProject.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Matlab/GuidePlot.fig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/_sublime/WebsiteProject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
