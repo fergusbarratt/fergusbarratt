@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>somethinglikeablog</title>
+    <description>Fergus&#39; blog. See fergusbarratt.me
+</description>
+    <link>http://fergusbarratt.me/home/blog/</link>
+    <atom:link href="http://fergusbarratt.me/home/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Nov 2015 14:26:20 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2015 14:26:20 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Hello!</title>
+        <description>&lt;h2 id=&quot;hello&quot;&gt;Hello!&lt;/h2&gt;
+&lt;p&gt;Welcome to my blog. Gonna talk about physics things probably. Bye!&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 03 Nov 2015 14:08:41 +0000</pubDate>
+        <link>http://fergusbarratt.me/home/blog/intro/2015/11/03/hello.html</link>
+        <guid isPermaLink="true">http://fergusbarratt.me/home/blog/intro/2015/11/03/hello.html</guid>
+        
+        
+        <category>intro</category>
+        
+      </item>
+    
+  </channel>
+</rss>

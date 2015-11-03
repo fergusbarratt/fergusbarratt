@@ -173,23 +173,7 @@
 			"file": "/Applications/MAMP/htdocs/home/projects/index.html",
 			"settings":
 			{
-				"buffer_size": 2482,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Applications/MAMP/htdocs/css/customstyle.css",
-			"settings":
-			{
-				"buffer_size": 157,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Applications/MAMP/htdocs/README.md",
-			"settings":
-			{
-				"buffer_size": 42,
+				"buffer_size": 2541,
 				"line_ending": "Unix"
 			}
 		},
@@ -197,7 +181,7 @@
 			"file": "/Applications/MAMP/htdocs/home/about/index.html",
 			"settings":
 			{
-				"buffer_size": 1348,
+				"buffer_size": 1407,
 				"line_ending": "Unix"
 			}
 		},
@@ -594,16 +578,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs",
-		"/Applications/MAMP/htdocs/_bootstrap/css",
-		"/Applications/MAMP/htdocs/_bootstrap/js",
-		"/Applications/MAMP/htdocs/css",
 		"/Applications/MAMP/htdocs/home",
 		"/Applications/MAMP/htdocs/home/about",
 		"/Applications/MAMP/htdocs/home/projects"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/README.md",
+		"/Applications/MAMP/htdocs/css/customstyle.css",
 		"/Applications/MAMP/htdocs/home/about/content.html",
 		"/Applications/MAMP/htdocs/home/projects/content.md",
 		"/Applications/MAMP/htdocs/index.html",
@@ -729,9 +711,7 @@
 		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Mathematica/Quasi Probability Functions.nb",
 		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/QuasiProbabilityDistributions.tex",
 		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Summary.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/TheMasterEquation.tex",
-		"/Applications/MATLAB_R2015a.app/bin/matlab",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/CarmichaelPaperSummary.tex"
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/TheMasterEquation.tex"
 	],
 	"find":
 	{
@@ -869,7 +849,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -908,15 +888,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2482,
+						"buffer_size": 2541,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								515,
-								515
+								0,
+								0
 							]
 						],
 						"settings":
@@ -924,10 +904,11 @@
 							"parser": "markdown",
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
-							"target": "save"
+							"target": "save",
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 15.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -935,80 +916,26 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/Applications/MAMP/htdocs/css/customstyle.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 157,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Applications/MAMP/htdocs/README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 42,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "/Applications/MAMP/htdocs/home/about/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1348,
+						"buffer_size": 1407,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								649,
-								649
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1018,7 +945,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 4,
 					"file": "/Applications/MAMP/htdocs/home/about/content.md",
 					"semi_transient": false,
 					"settings":
@@ -1044,11 +971,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 5,
 					"file": "/Applications/MAMP/htdocs/home/about/intro.html",
 					"semi_transient": false,
 					"settings":
@@ -1072,7 +999,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
