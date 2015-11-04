@@ -10,7 +10,7 @@ title: somethinglikeablog
 email: me@fergusbarratt.me
 description: > # this means to ignore newlines until "baseurl:"
   Fergus' blog. See fergusbarratt.me
-baseurl: "/home/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://fergusbarratt.me" # the base hostname & protocol for your site
 twitter_username: fergusbarratt
 github_username:  fergusbarratt
