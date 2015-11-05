@@ -148,30 +148,14 @@
 	"buffers":
 	[
 		{
-			"contents": "Remote:   origin @ https://github.com/fergusbarratt/fergusbarratt.git\nLocal:    master /Applications/MAMP/htdocs\nHead:     a38be4c messing with footer\n\n\nUntracked files:\n	video/\n\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash, Z = create stash including untracked files\n#    backspace = discard stash",
+			"contents": "Remote:   origin @ https://github.com/fergusbarratt/fergusbarratt.git\nLocal:    master /Applications/MAMP/htdocs\nHead:     81318e5 fixed footer\n\n\nChanges:\n	Modified   _sublime/WebsiteProject.sublime-workspace\n\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash, Z = create stash including untracked files\n#    backspace = discard stash",
 			"settings":
 			{
-				"buffer_size": 940,
+				"buffer_size": 971,
 				"line_ending": "Unix",
 				"name": "*git-status*: htdocs",
 				"read_only": true,
 				"scratch": true
-			}
-		},
-		{
-			"file": "/Applications/MAMP/htdocs/projects/index.html",
-			"settings":
-			{
-				"buffer_size": 2794,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Applications/MAMP/htdocs/index.html",
-			"settings":
-			{
-				"buffer_size": 1381,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -552,11 +536,14 @@
 	},
 	"expanded_folders":
 	[
+		"/Applications/MAMP/htdocs"
 	],
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/home/about/intro.html",
+		"/Applications/MAMP/htdocs/css/customstyle.css",
+		"/Applications/MAMP/htdocs/projects/index.html",
 		"/Applications/MAMP/htdocs/index.html",
+		"/Applications/MAMP/htdocs/home/about/intro.html",
 		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Applications/MAMP/htdocs/home/about/content.md",
 		"/Applications/MAMP/htdocs/home/about/index.html",
@@ -565,7 +552,6 @@
 		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
 		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/SmartMarkdown/SmartMarkdown.sublime-settings",
 		"/Applications/MAMP/htdocs/README.md",
-		"/Applications/MAMP/htdocs/css/customstyle.css",
 		"/Applications/MAMP/htdocs/home/about/content.html",
 		"/Applications/MAMP/htdocs/home/projects/content.md",
 		"/Applications/MAMP/htdocs/_sublime/WebsiteProject.sublime-project",
@@ -681,8 +667,7 @@
 		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/dispstat.m",
 		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/TheMasterEquation.tex",
 		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Project Outline/Project Outline.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/CarmichaelPaperSummary.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/JaynesCummingModel.tex"
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/CarmichaelPaperSummary.tex"
 	],
 	"find":
 	{
@@ -785,7 +770,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -793,15 +778,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 940,
+						"buffer_size": 971,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								182,
-								182
+								253,
+								253
 							]
 						],
 						"settings":
@@ -818,68 +803,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Applications/MAMP/htdocs/projects/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2794,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2227,
-								2227
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 360.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Applications/MAMP/htdocs/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1381,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								889,
-								889
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 195.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
