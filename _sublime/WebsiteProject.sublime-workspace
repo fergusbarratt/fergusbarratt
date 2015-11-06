@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ass",
+				"assert_response"
+			],
+			[
 				"fergus",
 				"fergusbarratt"
 			],
@@ -148,14 +152,38 @@
 	"buffers":
 	[
 		{
-			"contents": "Remote:   origin @ https://github.com/fergusbarratt/fergusbarratt.git\nLocal:    master /Applications/MAMP/htdocs\nHead:     81318e5 fixed footer\n\n\nChanges:\n	Modified   _sublime/WebsiteProject.sublime-workspace\n\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash, Z = create stash including untracked files\n#    backspace = discard stash",
+			"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/config/routes.rb",
 			"settings":
 			{
-				"buffer_size": 971,
-				"line_ending": "Unix",
-				"name": "*git-status*: htdocs",
-				"read_only": true,
-				"scratch": true
+				"buffer_size": 1683,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/controllers/static_pages_controller.rb",
+			"settings":
+			{
+				"buffer_size": 114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<h1>about</h1>\n<p>The <a href=\"railstutorial.com\">ruby on rails</a> tutorial sample app</p>\n",
+			"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/about.html.erb",
+			"file_size": 93,
+			"file_write_time": 130912361280000000,
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 853,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -270,10 +298,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 354.0,
-		"last_filter": "insta",
+		"height": 174.0,
+		"last_filter": "git sta",
 		"selected_items":
 		[
+			[
+				"git sta",
+				"Git: Status"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -325,10 +357,6 @@
 			[
 				"latexto",
 				"LaTeXTools: Reconfigure and migrate settings"
-			],
-			[
-				"git sta",
-				"Git: Status"
 			],
 			[
 				"package ins",
@@ -515,7 +543,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 348.0
 	},
 	"console":
 	{
@@ -536,13 +564,31 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs"
+		"/Applications/MAMP/htdocs",
+		"/Applications/MAMP/htdocs/projects"
 	],
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/css/customstyle.css",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/fergusbarratt/.bash_profile",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/config/routes.rb",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/fergusbarratt/bash/.git/COMMIT_EDITMSG",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/README.md",
+		"/Users/fergusbarratt/Dropbox/RubyProject/toy_app/app/models/user.rb",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/Gemfile",
+		"/Users/fergusbarratt/Dropbox/RubyProject/toy_app/app/controllers/application_controller.rb",
+		"/Users/fergusbarratt/Dropbox/RubyProject/toy_app/app/controllers/users_controller.rb",
+		"/Users/fergusbarratt/Dropbox/RubyProject/toy_app/app/models/micropost.rb",
 		"/Applications/MAMP/htdocs/projects/index.html",
+		"/Users/fergusbarratt/bash/.bash_profile",
+		"/Users/fergusbarratt/Dropbox/RubyProject/toy_app/config/routes.rb",
 		"/Applications/MAMP/htdocs/index.html",
+		"/Users/fergusbarratt/.gitconfig",
+		"/Users/fergusbarratt/Dropbox/RubyProject/toy_app/.git/config",
+		"/Applications/MAMP/htdocs/css/customstyle.css",
 		"/Applications/MAMP/htdocs/home/about/intro.html",
 		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Applications/MAMP/htdocs/home/about/content.md",
@@ -650,24 +696,7 @@
 		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/QuasiProbabilityDistributions.tex",
 		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/QuasiProbabilityDistributions.aux",
 		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/SlowingFigure.fig",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/plotQseries.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/TimeDependentSoln.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/CriticalSlowingCurve.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/CriticalSlowingComparison.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/Figure from Carmichael Paper.fig",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/GeneratePlotValues.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/rhoss.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/probevolve.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/ProjectOutline.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/QuasiProbabilityDistributions.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/Literature Review.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/Project Outline.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/iphnumvals.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/GuidePlotData.mat",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/dispstat.m",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/TheMasterEquation.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Project Outline/Project Outline.tex",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/TeX/Literature Review/CarmichaelPaperSummary.tex"
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/plotQseries.m"
 	],
 	"find":
 	{
@@ -685,6 +714,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'",
+			"\"",
+			"'",
 			"class=",
 			"c",
 			"button",
@@ -770,42 +802,125 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/config/routes.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 971,
+						"buffer_size": 1683,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								253,
-								253
+								112,
+								112
 							]
 						],
 						"settings":
 						{
-							"__vi_external_disable": true,
-							"default_dir": "/Applications/MAMP/htdocs",
-							"draw_white_space": "none",
-							"git_repo": "/Applications/MAMP/htdocs",
-							"git_status": true,
-							"git_view": "status",
-							"syntax": "Packages/SublimeGit/syntax/SublimeGit Status.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": false
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/controllers/static_pages_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/about.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 5.0,
+						"translation.y": 50.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -902,7 +1017,7 @@
 		[
 			[
 				"",
-				"~/Dropbox/University/Masters project/MastersProject.sublime-project"
+				"/Applications/MAMP/htdocs/_sublime/WebsiteProject.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -923,7 +1038,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 252.0,
 	"status_bar_visible": true,
 	"template_settings":
