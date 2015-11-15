@@ -152,37 +152,18 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/config/routes.rb",
+			"file": "/Applications/MAMP/htdocs/projects/index.html",
 			"settings":
 			{
-				"buffer_size": 1683,
+				"buffer_size": 3095,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/controllers/static_pages_controller.rb",
+			"file": "/Applications/MAMP/htdocs/index.html",
 			"settings":
 			{
-				"buffer_size": 114,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<h1>about</h1>\n<p>The <a href=\"railstutorial.com\">ruby on rails</a> tutorial sample app</p>\n",
-			"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/about.html.erb",
-			"file_size": 93,
-			"file_write_time": 130912361280000000,
-			"settings":
-			{
-				"buffer_size": 92,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 853,
+				"buffer_size": 1535,
 				"line_ending": "Unix"
 			}
 		}
@@ -298,10 +279,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 174.0,
-		"last_filter": "git sta",
+		"height": 354.0,
+		"last_filter": "install",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
 			[
 				"git sta",
 				"Git: Status"
@@ -313,10 +306,6 @@
 			[
 				"remove",
 				"Package Control: Remove Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"htm",
@@ -543,7 +532,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 348.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -569,11 +558,13 @@
 	],
 	"file_history":
 	[
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/config/routes.rb",
+		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/about.html.erb",
 		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/test/controllers/static_pages_controller_test.rb",
 		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/home.html.erb",
-		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/controllers/static_pages_controller.rb",
 		"/Users/fergusbarratt/.bash_profile",
-		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/config/routes.rb",
 		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/help.html.erb",
 		"/Users/fergusbarratt/bash/.git/COMMIT_EDITMSG",
 		"/Users/fergusbarratt/Dropbox/RubyProject/sample_app/README.md",
@@ -590,7 +581,6 @@
 		"/Users/fergusbarratt/Dropbox/RubyProject/toy_app/.git/config",
 		"/Applications/MAMP/htdocs/css/customstyle.css",
 		"/Applications/MAMP/htdocs/home/about/intro.html",
-		"/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Applications/MAMP/htdocs/home/about/content.md",
 		"/Applications/MAMP/htdocs/home/about/index.html",
 		"/Applications/MAMP/htdocs/home/projects/index.html",
@@ -695,12 +685,11 @@
 		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/JaynesCummingModel.tex",
 		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/QuasiProbabilityDistributions.tex",
 		"/Users/fergusbarratt/Dropbox/University/Masters project/TeX/Literature Review/QuasiProbabilityDistributions.aux",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/SlowingFigure.fig",
-		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/plotQseries.m"
+		"/Users/fergusbarratt/Dropbox/University/Masters project/Summary/Matlab/SlowingFigure.fig"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -802,90 +791,32 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/config/routes.rb",
+					"file": "/Applications/MAMP/htdocs/projects/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1683,
+						"buffer_size": 3095,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								112,
-								112
+								1960,
+								1960
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 10.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/controllers/static_pages_controller.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 114,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								99,
-								99
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/fergusbarratt/Dropbox/RubyProject/sample_app/app/views/static_pages/about.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 92,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								69,
-								69
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -895,29 +826,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/Users/fergusbarratt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"buffer": 1,
+					"file": "/Applications/MAMP/htdocs/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 853,
+						"buffer_size": 1535,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1410,
+								1410
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 5.0,
-						"translation.y": 50.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1017,7 +950,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/_sublime/WebsiteProject.sublime-project"
+				"~/Dropbox/RubyProject/RubyProject.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1035,12 +968,12 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
-	"show_tabs": true,
+	"show_tabs": false,
 	"side_bar_visible": false,
 	"side_bar_width": 252.0,
-	"status_bar_visible": true,
+	"status_bar_visible": false,
 	"template_settings":
 	{
 	}
